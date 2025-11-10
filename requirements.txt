@@ -1,9 +1,9 @@
-Requirements:
+## Requirements:
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
 
-- Python 3.9+
+PostgreSQL
+PowerBI Desktop
 
-- Pandas, SQLAlchemy, Psycopg2
-
-- PostgreSQL 13+
-
-- Power BI Desktop
