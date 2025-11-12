@@ -2,12 +2,6 @@
 
 ## 📘 Overview
 This project executes an **end-to-end data science pipeline** to analyze and optimize vendor performance.  
-The objective is to move beyond descriptive reporting and use **rigorous statistical methods** to validate and visualize the financial impact of different vendor tiers — driving strategic **supply chain and procurement decisions**.
-
----
-
-## 🏷️ Sector
-**Supply Chain Analytics / Procurement & Vendor Management**
 
 ---
 
